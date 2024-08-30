@@ -1,0 +1,10 @@
+General Knowledge,Easy,Multiple Choice,What is the capital of France?,Paris,London,Berlin,Madrid,A
+Science,Medium,Multiple Choice,What is the chemical symbol for water?,H2O,O2,CO2,H2,A
+Sports,Hard,Multiple Choice,Who won the FIFA World Cup in 2018?,Germany,Brazil,France,Argentina,C
+History,Easy,Multiple Choice,Who was the first president of the United States?,Thomas Jefferson,George Washington,Abraham Lincoln,John Adams,B
+Entertainment,Medium,Multiple Choice,Who directed the movie 'Inception'?,Steven Spielberg,Christopher Nolan,James Cameron,Martin Scorsese,B
+Technology,Hard,Multiple Choice,Which company created the Android operating system?,Apple,Microsoft,Google,Samsung,C
+Geography,Easy,Multiple Choice,What is the largest ocean on Earth?,Atlantic Ocean,Indian Ocean,Arctic Ocean,Pacific Ocean,D
+Literature,Medium,Multiple Choice,Who wrote '1984'?,Aldous Huxley,George Orwell,Ray Bradbury,Ernest Hemingway,B
+Mathematics,Hard,Multiple Choice,What is the value of pi to 3 decimal places?,3.124,3.142,3.141,3.144,C
+Music,Easy,Multiple Choice,Who is known as the King of Pop?,Elvis Presley,Michael Jackson,Prince,Freddie Mercury,B
