@@ -5,7 +5,7 @@
 
 Team Members :
 
-Member 1 : Prashant Sah ( Team Leader )
+Member 1 : Prashant Shah ( Team Leader )
 
 Github ID: https://github.com/github-1703
 
