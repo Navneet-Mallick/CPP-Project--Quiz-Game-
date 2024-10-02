@@ -11,7 +11,7 @@ Github ID: https://github.com/github-1703
 
 Contact No: 9811393571
 
-Email ID : 080bct062@ioepc.edu.np
+Email ID : exam934@gmai.com
 	       
 Member 2 : Navneet Mallick
 
